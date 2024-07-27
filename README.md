@@ -1,9 +1,7 @@
-## Paper ID: 4402 (LLsM), ACMMM2024
+## Paper: DAIRstega: Dynamically Allocated Interval-Based Generative Linguistic Steganography with Roulette Wheel
 
-This repository contains three parts: 
+This repository contains two parts: 
 
-**1. “Figures and tables” that need to be displayed during rebuttal**; 
+**1. “Code” of this paper**;
 
-**2. “Code” of this paper**;
-
-**3. Appendix**
+**2. Appendix**;
