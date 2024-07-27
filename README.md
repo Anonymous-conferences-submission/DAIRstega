@@ -1,4 +1,4 @@
-## Paper: DAIRstega: Dynamically Allocated Interval-Based Generative Linguistic Steganography with Roulette Wheel
+## DAIRstega: Dynamically Allocated Interval-Based Generative Linguistic Steganography with Roulette Wheel
 
 This repository contains two parts: 
 
