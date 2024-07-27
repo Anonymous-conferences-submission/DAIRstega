@@ -4,6 +4,6 @@ This repository contains two parts:
 
 **1. Code of this paper**;
 
-**2. Appendix**;
+**2. Supplementary**;
 
 
